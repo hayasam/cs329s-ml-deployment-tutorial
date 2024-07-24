@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.11.9
 
 ## App engine stuff
 # Expose port you want your app on
